@@ -1,4 +1,4 @@
-namespace ResultPatternApi
+namespace ResultPattern.Api
 {
     public class WeatherForecast
     {
